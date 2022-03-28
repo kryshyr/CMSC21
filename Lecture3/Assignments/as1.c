@@ -13,7 +13,7 @@ int main()
     int age;
     bool teenager;
 
-    printf("Enter the 2-digit number: ");
+    printf("Enter age: ");
     scanf("%d",&age);
 
     // if statement to check if age is in range 13-19
