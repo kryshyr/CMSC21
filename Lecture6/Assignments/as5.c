@@ -1,4 +1,4 @@
-/* Program that checks the length of an array using sizeof operator. */
+/* Program that checks the length of an array using sizeof operator */
 
 #include<stdio.h>
 

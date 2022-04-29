@@ -1,4 +1,4 @@
-/* Program that prints out the negative elements in an array. */
+/* Program that prints out the negative elements in an array */
 
 #include <stdio.h>
 

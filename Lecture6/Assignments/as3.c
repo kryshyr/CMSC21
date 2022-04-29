@@ -1,4 +1,4 @@
-/* Program that reverses a series of numbers. */
+/* Program that reverses a series of numbers */
 
 #include <stdio.h>
 

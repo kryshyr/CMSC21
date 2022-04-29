@@ -1,4 +1,4 @@
-/* Program that computes for the average grade of 5 students. */
+/* Program that computes for the average grade of 5 students */
 
 #include <stdio.h>
 
